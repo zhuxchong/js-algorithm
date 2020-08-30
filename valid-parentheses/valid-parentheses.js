@@ -62,3 +62,4 @@ function isValid(s) {
     return false;
   }
 }
+console.log(isValid("()"));
