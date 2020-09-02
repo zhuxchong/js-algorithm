@@ -1,4 +1,4 @@
-const bt = require("./bt");
+const bt = require("../mock-data/bt");
 const preOrder = (root) => {
   if (!root) return;
   console.log(root.val);
